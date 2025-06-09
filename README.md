@@ -1,6 +1,6 @@
-# MAHRABA – AI Content Generator
+# MAHBARA – AI Content Generator
 
-**MAHRABA** is an AI-powered web application that supports multilingual content generation, voice input, image generation, and export capabilities with professional formatting. Built to serve marketers, content creators, and businesses with intelligent tools that streamline digital content creation.
+**MAHBARA** is an AI-powered web application that supports multilingual content generation, voice input, image generation, and export capabilities with professional formatting. Built to serve marketers, content creators, and businesses with intelligent tools that streamline digital content creation.
 
 ---
 
@@ -45,7 +45,6 @@
 
 ## 🚀 Getting Started
 
-```bash
 # Clone the repository
 git clone https://github.com/TalhaIqbal3322/MAHBARA-AI-.git
 cd MAHRABA
