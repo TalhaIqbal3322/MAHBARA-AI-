@@ -45,20 +45,21 @@
 
 ## 🚀 Getting Started
 
-# Clone the repository
+### Clone the repository
 git clone https://github.com/TalhaIqbal3322/MAHBARA-AI-.git
 
 cd MAHRABA
 
-# Install dependencies
+### Install dependencies
 pip install -r requirements.txt
 
-# Run the app
+### Run the app
 python app.py
 
 
 MAHRABA/
-│
+
+
 ├── app.py               # Main Flask backend
 
 ├── index.html           # Main HTML file
@@ -79,7 +80,7 @@ MAHRABA/
 
 
 
-For collaboration or inquiries, please connect via GitHub or email.
+For collaboration or inquiries, please connect via [GitHub](https://github.com/TalhaIqbal3322). or email.
 
 Developer: Talha Iqbal
 
