@@ -47,6 +47,7 @@
 
 # Clone the repository
 git clone https://github.com/TalhaIqbal3322/MAHBARA-AI-.git
+
 cd MAHRABA
 
 # Install dependencies
@@ -59,10 +60,30 @@ python app.py
 MAHRABA/
 │
 ├── app.py               # Main Flask backend
+
 ├── index.html           # Main HTML file
+
 ├── styles.css           # CSS styles
+
 ├── script.js            # JS logic
-├── static/              # Static files (images, etc.)
+
+├── static/              # Static files 
+
 ├── templates/           # Flask templates
+
 └── requirements.txt     # Python dependencies
+
+---
+
+## 📩 Contact
+
+
+
+For collaboration or inquiries, please connect via GitHub or email.
+
+Developer: Talha Iqbal
+
+Email: talhaiqbal.digitalnexus@gmail.com
+
+---
 
